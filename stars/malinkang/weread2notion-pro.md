@@ -1,6 +1,6 @@
 ---
 project: weread2notion-pro
-stars: 2426
+stars: 2454
 description: null
 url: https://github.com/malinkang/weread2notion-pro
 ---

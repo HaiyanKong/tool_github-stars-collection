@@ -1,6 +1,6 @@
 ---
 project: Text-Typesetting
-stars: 321
+stars: 322
 description: :art: 中英混排文档在线排版工具
 url: https://github.com/CyC2018/Text-Typesetting
 ---

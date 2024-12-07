@@ -1,6 +1,6 @@
 ---
 project: awesome-guidelines
-stars: 9854
+stars: 9868
 description: A curated list of high quality coding style conventions and standards.
 url: https://github.com/Kristories/awesome-guidelines
 ---

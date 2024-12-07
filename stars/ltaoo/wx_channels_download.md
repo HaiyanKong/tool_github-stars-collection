@@ -1,6 +1,6 @@
 ---
 project: wx_channels_download
-stars: 279
+stars: 300
 description: 微信视频号下载器
 url: https://github.com/ltaoo/wx_channels_download
 ---

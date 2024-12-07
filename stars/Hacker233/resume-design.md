@@ -1,6 +1,6 @@
 ---
 project: resume-design
-stars: 1629
+stars: 1638
 description: 一款开源简历设计生成器，内置两款设计器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据。
 url: https://github.com/Hacker233/resume-design
 ---

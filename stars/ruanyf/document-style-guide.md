@@ -1,6 +1,6 @@
 ---
 project: document-style-guide
-stars: 12028
+stars: 12046
 description: 中文技术文档的写作规范
 url: https://github.com/ruanyf/document-style-guide
 ---

@@ -1,6 +1,6 @@
 ---
 project: Python-EEG-Handbook-CN
-stars: 387
+stars: 389
 description: Python脑电数据处理中文手册 - A Chinese handbook for EEG data analysis based on Python
 url: https://github.com/ZitongLu1996/Python-EEG-Handbook-CN
 ---

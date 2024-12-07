@@ -1,6 +1,6 @@
 ---
 project: mne-nirs
-stars: 85
+stars: 86
 description: Process Near-Infrared Spectroscopy Data in MNE
 url: https://github.com/mne-tools/mne-nirs
 ---

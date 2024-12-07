@@ -1,6 +1,6 @@
 ---
 project: MNE-Cookbook
-stars: 79
+stars: 80
 description: 使用MNE-python过程中的小技巧,即如何处理MEG/EEG信号数据.
 url: https://github.com/LiaoPan/MNE-Cookbook
 ---

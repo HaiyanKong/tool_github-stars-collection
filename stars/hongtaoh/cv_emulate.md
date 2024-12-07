@@ -1,6 +1,6 @@
 ---
 project: cv_emulate
-stars: 390
+stars: 392
 description: Academic CVs that you can emulate
 url: https://github.com/hongtaoh/cv_emulate
 ---

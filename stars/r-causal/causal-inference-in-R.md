@@ -1,6 +1,6 @@
 ---
 project: causal-inference-in-R
-stars: 199
+stars: 200
 description: Causal Inference in R: A book!
 url: https://github.com/r-causal/causal-inference-in-R
 ---

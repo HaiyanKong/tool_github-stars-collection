@@ -1,6 +1,6 @@
 ---
 project: cmocean
-stars: 232
+stars: 233
 description: Colormap setup for standardizing commonly-plotting oceanographic variables.
 url: https://github.com/matplotlib/cmocean
 ---

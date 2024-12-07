@@ -1,6 +1,6 @@
 ---
 project: ladybird
-stars: 22490
+stars: 26034
 description: Truly independent web browser
 url: https://github.com/LadybirdBrowser/ladybird
 ---

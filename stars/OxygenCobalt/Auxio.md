@@ -1,6 +1,6 @@
 ---
 project: Auxio
-stars: 2210
+stars: 2222
 description: A simple, rational music player for android
 url: https://github.com/OxygenCobalt/Auxio
 ---

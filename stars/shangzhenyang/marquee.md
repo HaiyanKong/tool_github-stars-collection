@@ -1,6 +1,6 @@
 ---
 project: marquee
-stars: 7
+stars: 8
 description: Create full-screen scrolling text displays with customizable text, colors, font size, and speed. Perfect for concerts, events, announcements, and more.
 url: https://github.com/shangzhenyang/marquee
 ---

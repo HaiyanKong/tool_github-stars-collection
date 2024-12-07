@@ -1,6 +1,6 @@
 ---
 project: JuliaTutorials
-stars: 1274
+stars: 1277
 description: Learn Julia via interactive tutorials!
 url: https://github.com/JuliaAcademy/JuliaTutorials
 ---

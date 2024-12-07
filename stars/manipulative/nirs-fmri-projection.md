@@ -1,6 +1,6 @@
 ---
 project: nirs-fmri-projection
-stars: 2
+stars: 3
 description: an enhanced function of nirs to fmri projection
 url: https://github.com/manipulative/nirs-fmri-projection
 ---

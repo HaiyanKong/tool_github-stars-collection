@@ -1,6 +1,6 @@
 ---
 project: chinese-copywriting-guidelines
-stars: 14347
+stars: 14359
 description: Chinese copywriting guidelines for better written communication／中文文案排版指北
 url: https://github.com/sparanoid/chinese-copywriting-guidelines
 ---

@@ -1,6 +1,6 @@
 ---
 project: cv
-stars: 317
+stars: 318
 description: Geoff Boeing's academic CV in LaTeX
 url: https://github.com/gboeing/cv
 ---

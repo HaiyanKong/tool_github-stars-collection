@@ -1,6 +1,6 @@
 ---
 project: best-windows-apps
-stars: 2398
+stars: 2410
 description: 推荐好用、优秀的 Windows 应用
 url: https://github.com/stackia/best-windows-apps
 ---

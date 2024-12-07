@@ -1,6 +1,6 @@
 ---
 project: the-craft-of-selfteaching
-stars: 15267
+stars: 15275
 description: One has no future if one couldn't teach themself.
 url: https://github.com/selfteaching/the-craft-of-selfteaching
 ---

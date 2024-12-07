@@ -1,6 +1,6 @@
 ---
 project: ISCtoolbox_fNIRS
-stars: 1
+stars: 2
 description: the main code of cultural video project
 url: https://github.com/manipulative/ISCtoolbox_fNIRS
 ---

@@ -1,6 +1,6 @@
 ---
 project: report
-stars: 696
+stars: 697
 description: :scroll: :tada: Automated reporting of objects in R
 url: https://github.com/easystats/report
 ---

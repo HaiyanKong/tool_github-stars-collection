@@ -1,6 +1,6 @@
 ---
 project: hugo-embed-pdf-shortcode
-stars: 135
+stars: 136
 description: A shortcode for Hugo(https://gohugo.io/) which allows you to embed a PDF file in a page using Pdf.js (https://mozilla.github.io/pdf.js/)
 url: https://github.com/anvithks/hugo-embed-pdf-shortcode
 ---

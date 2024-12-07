@@ -1,6 +1,6 @@
 ---
 project: QuickRecorder
-stars: 4546
+stars: 4614
 description: A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 url: https://github.com/lihaoyun6/QuickRecorder
 ---

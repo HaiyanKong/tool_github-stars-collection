@@ -1,6 +1,6 @@
 ---
 project: lookscanned.io
-stars: 2676
+stars: 2687
 description: 📚 LookScanned.io - Make your PDFs look scanned
 url: https://github.com/rwv/lookscanned.io
 ---

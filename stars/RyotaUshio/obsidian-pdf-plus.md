@@ -1,6 +1,6 @@
 ---
 project: obsidian-pdf-plus
-stars: 853
+stars: 873
 description: PDF++: The most Obsidian-native PDF annotation, viewing & editing tool ever. Comes with optional Vim keybindings.
 url: https://github.com/RyotaUshio/obsidian-pdf-plus
 ---

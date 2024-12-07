@@ -1,6 +1,6 @@
 ---
 project: Practical-Applications-in-R-for-Psychologists
-stars: 126
+stars: 127
 description: Lesson files for Practical Applications in R for Psychologists.
 url: https://github.com/mattansb/Practical-Applications-in-R-for-Psychologists
 ---

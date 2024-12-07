@@ -1,6 +1,6 @@
 ---
 project: SpaceSniffer
-stars: 840
+stars: 847
 description: SpaceSniffer is a freeware disk space analyzer for Windows that make use of the Treemap concept to view the current disk usage.
 url: https://github.com/redtrillix/SpaceSniffer
 ---

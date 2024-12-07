@@ -1,6 +1,6 @@
 ---
 project: everyone-can-use-english
-stars: 25305
+stars: 25361
 description: 人人都能用英语
 url: https://github.com/ZuodaoTech/everyone-can-use-english
 ---

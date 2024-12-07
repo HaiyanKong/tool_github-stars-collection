@@ -1,6 +1,6 @@
 ---
 project: fnirs_hyperscanning_tutorial
-stars: 3
+stars: 4
 description: A fnirs-based hyperscaning data analysis tutorial, modified from fNIRS course in Beijing Normal University
 url: https://github.com/manipulative/fnirs_hyperscanning_tutorial
 ---

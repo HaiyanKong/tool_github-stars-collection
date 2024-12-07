@@ -1,6 +1,6 @@
 ---
 project: desktop
-stars: 19596
+stars: 20022
 description: 🌀 Experience tranquillity while browsing the web without people tracking you!
 url: https://github.com/zen-browser/desktop
 ---
@@ -71,7 +71,7 @@ yay -S zen-browser-avx2-bin
 
 ##### Other Linux distributions (AppImage with automated system integration)
 
--   `native` tarball install: `sudo bash <(curl -s https://updates.zen-browser.app/install.sh)`
+-   `native` tarball install: `bash <(curl -s https://updates.zen-browser.app/install.sh)`
     
 -   `zsync` is required for the Update feature of the script below
     

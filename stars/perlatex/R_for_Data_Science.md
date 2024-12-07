@@ -1,6 +1,6 @@
 ---
 project: R_for_Data_Science
-stars: 360
+stars: 362
 description: Materials for teaching R and tidyverse
 url: https://github.com/perlatex/R_for_Data_Science
 ---

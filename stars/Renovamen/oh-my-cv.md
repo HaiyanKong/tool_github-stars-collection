@@ -1,6 +1,6 @@
 ---
 project: oh-my-cv
-stars: 371
+stars: 380
 description: An in-browser, local-first Markdown resume builder.
 url: https://github.com/Renovamen/oh-my-cv
 ---

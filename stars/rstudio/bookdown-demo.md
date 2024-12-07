@@ -1,6 +1,6 @@
 ---
 project: bookdown-demo
-stars: 511
+stars: 514
 description: A minimal book example using bookdown
 url: https://github.com/rstudio/bookdown-demo
 ---

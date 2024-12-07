@@ -1,6 +1,6 @@
 ---
 project: stevetemplates
-stars: 128
+stars: 129
 description: My collection of R Markdown templates, as an R package.
 url: https://github.com/svmiller/stevetemplates
 ---

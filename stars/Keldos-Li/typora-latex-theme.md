@@ -1,6 +1,6 @@
 ---
 project: typora-latex-theme
-stars: 4903
+stars: 4920
 description: 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 url: https://github.com/Keldos-Li/typora-latex-theme
 ---

@@ -1,6 +1,6 @@
 ---
 project: R-vs.-Python-for-Data-Science
-stars: 434
+stars: 435
 description: null
 url: https://github.com/matloff/R-vs.-Python-for-Data-Science
 ---

@@ -1,6 +1,6 @@
 ---
 project: LapisCV
-stars: 2840
+stars: 2862
 description: 📃 开箱即用的 Markdown 简历，支持 VSCode / Obsidian / Typora
 url: https://github.com/BingyanStudio/LapisCV
 ---

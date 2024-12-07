@@ -1,6 +1,6 @@
 ---
 project: NIRS-KIT
-stars: 7
+stars: 9
 description: NIRS-KIT is a MATLAB toolbox for both task and resting-state fNIRS data analysis with a user-friendly GUI. 
 url: https://github.com/bnuhouxin/NIRS-KIT
 ---
